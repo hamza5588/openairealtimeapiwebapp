@@ -1,0 +1,8 @@
+openai-realtime-client
+fastapi
+uvicorn
+websockets 
+python-multipart
+openai-realtime-client
+pynput 
+llama-index
